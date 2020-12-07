@@ -1,0 +1,3 @@
+module exit {
+	exports application;
+}
